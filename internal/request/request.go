@@ -3,7 +3,7 @@ package request
 import (
 	"bytes"
 	"errors"
-	"httpfromtcp/internal/headers"
+	"github.com/LiddleChild/http-from-tcp/internal/headers"
 	"io"
 	"strconv"
 	"strings"

@@ -1,8 +1,8 @@
 package http
 
 import (
-	"httpfromtcp/internal/request"
-	"httpfromtcp/internal/response"
+	"github.com/LiddleChild/http-from-tcp/internal/request"
+	"github.com/LiddleChild/http-from-tcp/internal/response"
 	"io"
 )
 

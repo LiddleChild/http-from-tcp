@@ -2,7 +2,7 @@ package routers
 
 import (
 	"fmt"
-	"httpfromtcp/internal/http"
+	"github.com/LiddleChild/http-from-tcp/internal/http"
 	"strings"
 )
 

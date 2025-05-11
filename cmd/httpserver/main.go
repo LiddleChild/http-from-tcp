@@ -1,9 +1,9 @@
 package main
 
 import (
-	"httpfromtcp/internal/http"
-	"httpfromtcp/internal/request"
-	"httpfromtcp/internal/server"
+	"github.com/LiddleChild/http-from-tcp/internal/http"
+	"github.com/LiddleChild/http-from-tcp/internal/request"
+	"github.com/LiddleChild/http-from-tcp/internal/server"
 	"io"
 	"log"
 	"os"

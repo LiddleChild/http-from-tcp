@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"httpfromtcp/internal/request"
+	"github.com/LiddleChild/http-from-tcp/internal/request"
 	"net"
 )
 

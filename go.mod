@@ -1,4 +1,4 @@
-module httpfromtcp
+module github.com/LiddleChild/http-from-tcp
 
 go 1.24.1
 

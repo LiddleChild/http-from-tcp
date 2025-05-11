@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"httpfromtcp/internal/http"
-	"httpfromtcp/internal/request"
+	"github.com/LiddleChild/http-from-tcp/internal/http"
+	"github.com/LiddleChild/http-from-tcp/internal/request"
 	"io"
 	"testing"
 

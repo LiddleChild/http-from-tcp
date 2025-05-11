@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"httpfromtcp/internal/http"
-	"httpfromtcp/internal/request"
-	"httpfromtcp/internal/response"
+	"github.com/LiddleChild/http-from-tcp/internal/http"
+	"github.com/LiddleChild/http-from-tcp/internal/request"
+	"github.com/LiddleChild/http-from-tcp/internal/response"
 	"io"
 	"strconv"
 )

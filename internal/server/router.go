@@ -1,6 +1,6 @@
 package server
 
-import "httpfromtcp/internal/http"
+import "github.com/LiddleChild/http-from-tcp/internal/http"
 
 func (s *Server) route(method http.Method, path string, handler http.Handler) {
 	if s.err != nil {
